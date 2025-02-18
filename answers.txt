@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: I can apply data science to almost any field, from healthcare to finance to marketing. For example, in finance, I can use data science to analyze customer spending patterns and predict credit risk.
